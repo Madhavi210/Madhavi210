@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python & full stack web development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Madhavi210/Portfolio-website](https://github.com/Madhavi210/Portfolio-website)
+- 👨‍💻 All of my projects are available at [https://github.com/Madhavi210/Madhavi-Portfolio](https://github.com/Madhavi210/Madhavi-Portfolio)
 
 - 📫 How to reach me **jmadhavi156@gmail.com**
 
