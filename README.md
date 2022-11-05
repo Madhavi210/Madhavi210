@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python & full stack web development**
 
-- 👨‍💻 All of my projects are available at [https://madhavi001.netlify.app/](https://madhavi001.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://madhavi001.netlify.app](https://madhavi001.netlify.app)
 
 - 📫 How to reach me **jmadhavi156@gmail.com**
 
